@@ -4,10 +4,10 @@
 > - SMMA Business 🈺
 > - Cyber Security Certifications 🖥️
 # Currently Learning
-> Python 💾
-> Cyber Security 👨‍💻
-> Marketing 
-> Business 
+> - Python 💾
+> - Cyber Security 👨‍💻
+> - Marketing 
+> - Business 
 
 
 
