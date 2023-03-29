@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+# Currently working on
+> - SMMA Business 🈺
+> - Cyber Security Certifications 🖥️
+# Currently Learning
+> Python 💾
+> Cyber Security 👨‍💻
+> Marketing 
+> Business 
+
+
+
 <!--
 **ZangReinerMedia/ZangReinerMedia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
